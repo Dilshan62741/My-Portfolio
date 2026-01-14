@@ -78,7 +78,7 @@ export default function Home() {
                 href="#projects"
                 className="px-6 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
               >
-                View projects
+                View 
               </a>
 
               <a
