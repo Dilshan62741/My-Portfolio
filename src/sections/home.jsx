@@ -81,13 +81,13 @@ export default function Home() {
                 View projects
               </a>
 
-              {/* <a
+              <a
                 href="/cv.pdf"
                 download
                 className="px-6 py-3 rounded-full border border-gray-600 hover:bg-gray-800 transition"
               >
                 Download CV
-              </a> */}
+              </a>
             </div>
 
             <div className="flex gap-6">
